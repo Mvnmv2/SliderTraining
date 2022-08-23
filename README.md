@@ -1,1 +1,1 @@
-# SliderTraining
+# Simple Slider for Training
